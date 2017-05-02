@@ -82,7 +82,7 @@ public class CuentaCorriente {
             System.out.print("Fallo al ingresar");
         }
     }
-     //COMENTARIO PARA COMPROBAR QUE SE REALIZA EL CAMBIO EN GIT 
+     //COMENTARIO MODIFICADO PARA COMPROBAR QUE SE REALIZA EL CAMBIO EN NETBEANS
     /**
      *
      * @param cantidad
